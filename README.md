@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👩‍💻 Deicy Juliana Velásquez Estrada</h1>
+<h3 align="center">Test Automation Engineer | Functional & Automated Testing | 6+ Years of Experience</h3>
 
-<!--
-**JulianaVelasquezE/JulianaVelasquezE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented Test Automation Engineer with strong expertise in both automated and manual testing, bringing over 6 years of experience in validating web, mobile, and API-based applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills
+
+- **Languages:** Java, JavaScript/Typescript, SQL  
+- **Automation Tools & Frameworks:** Selenium Webdriver, Playwright, Appium, Cucumber, TestNG, JUnit  
+- **API:** Postman, Rest Assured
+- **Testing:** UI, API, Mobile, Integration, Regression  
+- **Reporting:** Allure
+- **Design Patterns:** POM (Page Object Model)
+- **Version Control:** Git, GitHub, Azure DevOps
+- **Build Tools:** Maven
+- **Bug Tracking:** Azure DevOps, JIRA, TestRail
+- **Databases:** Microsoft SQL Server
+- **CI/CD:** Azure DevOps, Jenkins 
+
+---
+
+## 📌 Projects
+
+- **[banking-e2e-tests](https://github.com/JulianaVelasquezE/atenea-bank-playwright):** Automated UI tests for a core banking app (Playwright, Typescript)
+
+---
+
+## 📬 Contact
+
+[LinkedIn](https://linkedin.com/in/deicyjulianavelasquezestrada)  
+📧 juliana.velasquez.estrada@gmail.com
+
+---
+
+> Open to QA opportunities in remote or hybrid roles.
