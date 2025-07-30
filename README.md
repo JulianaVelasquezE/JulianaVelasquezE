@@ -7,24 +7,28 @@ Detail-oriented Test Automation Engineer with strong expertise in both automated
 
 ## ⚙️ Skills
 
-- **Languages:** Java, JavaScript/Typescript, SQL  
-- **Automation Tools & Frameworks:** Selenium Webdriver, Playwright, Appium, Cucumber, TestNG, JUnit  
-- **API:** Postman, Rest Assured
-- **Testing:** UI, API, Mobile, Integration, Regression  
+- **Languages:** Java, JavaScript/Typescript
+- **Automation Tools & Frameworks:** Selenium Webdriver, Playwright, Appium, Cucumber, TestNG, JUnit
+- **Cloud Testing Platforms:** Sauce Labs, BrowserStack
+- **API:** Postman, Newman, Rest Assured 
 - **Reporting:** Allure
 - **Design Patterns:** POM (Page Object Model)
-- **Version Control:** Git, GitHub, Azure DevOps
+- **Version Control:** Git, GitHub, GitHub Actions, Azure DevOps
 - **Build Tools:** Maven
 - **Bug Tracking:** Azure DevOps, JIRA, TestRail
-- **Databases:** Microsoft SQL Server
-- **CI/CD:** Azure DevOps, Jenkins 
+- **Databases:** SQL
+- **CI/CD:** Azure DevOps, Jenkins
+- **Performance Testing:** K6, JMeter
+- **Others:** Docker, AWS (basic)
+- **Testing:** UI, API, Mobile, Integration, Regression 
 
 ---
 
 ## 📌 Projects
 
 - **[banking-e2e-tests](https://github.com/JulianaVelasquezE/atenea-bank-playwright):** Automated UI tests for a core banking app (Playwright, Typescript)
-
+- **[ecommerce-e2e-tests](https://github.com/JulianaVelasquezE/saucedemo-selenium-project):** Automated UI tests for a demo ecommerce app (Selenium, Java, TestNG, Maven)
+- 
 ---
 
 ## 📬 Contact
